@@ -234,7 +234,7 @@ python3 -m pip install pystan
     - If you miss the FeedbackFruits deadline first time it's used due technical problems, but you send the pdf to one of the TAs few minutes after the deadline it can accepted once. As the recommended submission time is before 4pm on Friday, you have in general 56 hours extra hours for submission and several few minute late submissions is not likely just due to the technical problems.
 -->
 - I was not able to do one of the assignments because [some personal problem]. Can I do some extra work?
-    - Things happen and you don't need to tell the course staff your personal reasons (especially you shouldn't tell any health issue details). Everyone gets a second change in period III. In period III there is just one submission deadline, but otherwise the procedure is the same (ie. you need to return all the assignments). If you submitted the project work in autumn you don't need to re-submit it if you re-submit assignments.
+    - Things happen and you don't need to tell the course staff your personal reasons (especially you shouldn't tell any health issue details). Everyone gets a second change in period III. In period III there is just one submission deadline, but otherwise the procedure is the same. If you submitted the project work in autumn you don't need to re-submit it if you re-submit assignments.
 - I missed the deadline to register project group. Can I still register?
     - Yes. Those who registered early are allowed to choose the presentation slots first.
 - My group member a) disappeared, b) doesn't do anything, c) is annoying. Can I continue with the project alone.
